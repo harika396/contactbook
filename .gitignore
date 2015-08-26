@@ -1,6 +1,9 @@
 *.rbc
+*.log
 capybara-*.html
 .rspec
+config/database.yml
+public/assets/**
 /log
 /tmp
 /db/*.sqlite3
