@@ -4,8 +4,7 @@ capybara-*.html
 .rspec
 config/database.yml
 public/assets/**
-/tmp
-/vendor
+/tmp/**
 /log
 /tmp
 /db/*.sqlite3
