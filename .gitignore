@@ -3,8 +3,8 @@
 capybara-*.html
 .rspec
 config/database.yml
+Capfile
 public/assets/**
-/tmp
 /vendor
 /log
 /tmp
